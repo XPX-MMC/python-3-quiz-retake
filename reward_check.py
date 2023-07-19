@@ -5,6 +5,6 @@ def find_best_user(file_path):
 
 def test():
     result = find_best_user("users.txt")
-    print(result)
+    print(f"Congratulations {result}! You have a lot of rewards points, would you like to spend them?")
 
 test()

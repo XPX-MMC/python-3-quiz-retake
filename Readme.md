@@ -27,7 +27,7 @@ test()
 
 Output:
 ```
-Invalid first name: 'B1ll'
+Congratulations Sundar! You have a lot of rewards points, would you like to spend them?
 ```
 
 - This tests your ability to read files, select the correct data, manipulate strings and use Exceptions in python.
